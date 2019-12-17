@@ -3,6 +3,8 @@
     display: inline-block;
     border-radius: 5px;
     padding: 5px;
+    min-width: 40px;
+    text-align: center;
 }
 
 .button:hover {
