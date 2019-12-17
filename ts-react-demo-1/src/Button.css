@@ -1,0 +1,19 @@
+.button {
+    border: 1px solid #ddd;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+
+.button.small {
+    font-size: 12px;
+}
+
+.button.large {
+    font-size: 22px;
+}

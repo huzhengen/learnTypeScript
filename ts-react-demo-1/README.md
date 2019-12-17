@@ -1,3 +1,5 @@
+在`JSX`语法中，大括号括起来的部分会被当做`JavaScript`代码来执行
+
 https://xiedaimala.com/tasks/e56615a5-c7a2-46e7-ac35-24c2e5fd33eb/video_tutorials/88243b2a-66a1-40e1-bbff-abce3f8a4284
 
 https://create-react-app.dev/docs/adding-typescript/
